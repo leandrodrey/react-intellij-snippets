@@ -1,0 +1,16 @@
+$TM_FILENAME_BASE$ 
+
+Expression: capitalize(camelCase(fileNameWithoutExtension()))
+Default Value: ""
+
+Snippet content:
+
+const $TM_FILENAME_BASE$ = () => {
+    return (
+        <>
+            Hola
+        </>
+    )
+}
+
+export default $TM_FILENAME_BASE$;
