@@ -1,6 +1,10 @@
 # react-intellij-snippets
 
-My own snippets for React using TypeScript
+My own snippets/Live Templates for React.
+
+* Created in IntelliJ IDEA 2023.1.2 (Ultimate Edition)
+* React 18
+* Typescript
 
 # rafce
 React custom component
