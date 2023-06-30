@@ -1,0 +1,1 @@
+# react-intellij-snippets
