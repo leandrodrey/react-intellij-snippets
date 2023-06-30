@@ -1,10 +1,10 @@
 # react-intellij-snippets
 
-My own snippets/Live Templates for React.
+My own snippets/Live Templates for React using:
 
-* Created in IntelliJ IDEA 2023.1.2 (Ultimate Edition)
-* React 18
-* Typescript
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> 
+<img src="https://img.shields.io/badge/React 18-20232A?style=for-the-badge&logo=react&logoColor=">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 # rafce
 React custom component
