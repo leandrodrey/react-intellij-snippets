@@ -1,6 +1,6 @@
 # Snippet content:
 ```JSX
-import Document, {Html, Head, Main, NextScript, DocumentContext, DocumentInitialProps} from 'next/document'
+import Document, {DocumentContext, DocumentInitialProps, Head, Html, Main, NextScript} from 'next/document'
 
 class MyDocument extends Document {
     static async getInitialProps(ctx: DocumentContext): Promise<DocumentInitialProps> {
@@ -11,15 +11,15 @@ class MyDocument extends Document {
     render() {
         return (
             <Html>
-                <Head />
+                <Head/>
                 <body>
-                <Main />
-                <NextScript />
+                <Main/>
+                <NextScript/>
                 </body>
             </Html>
         )
-
+    }
 }
 
-export default MyDocument;
+export default MyDocument
 ```
